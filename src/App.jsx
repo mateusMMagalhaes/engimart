@@ -5,7 +5,7 @@ function App() {
     <>
    
       <nav className="bg-black flex justify-evenly text-white text-2xl">
-        <img className="py-10" src="public/logo.png" alt="" />
+        <img className="py-10" src="/logo.png" alt="" />
         <div className="flex justify-between w-2/6 items-center">
           <p>home</p>
           <p>Sobre</p>
@@ -43,7 +43,7 @@ function App() {
           <p className="text-xl pt-2 pl-1">Facilitar e otimizar o processo de construção civil, conectando fornecedores de materiais de qualidade às necessidades específicas das construtoras, proporcionando uma experiência transparente, eficiente e inovadora.</p>
           </div>
         </div>
-        <img src="public/sobre.png" alt="" />
+        <img src="/sobre.png" alt="" />
       </div>
       <div className="pt-14 ">
         <div className="flex justify-center">
