@@ -17,7 +17,7 @@ function App() {
       
       <div className="bg-image h-screen bg-no-repeat bg-cover text-white flex items-center w-screen">
           <div className="pl-80">
-            <p className="font-thin text-5xl pl-2">Construa com conexoes</p>
+            <p className="font-thin text-5xl pl-2">Construa com conexões</p>
             <div className="flex">
             <p className="text-8xl -mt-5">Construa com</p>
             <div className="flex items-end">
