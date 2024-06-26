@@ -4,7 +4,7 @@ function App() {
   return (
     <>
    
-      <nav className="bg-black flex justify-evenly text-white text-2xl">
+      <nav className="bg-black flex justify-evenly text-white text-3xl">
         <img className="py-10" src="/logo.png" alt="" />
         <div className="flex justify-between w-2/6 items-center">
           <p>home</p>
@@ -17,9 +17,9 @@ function App() {
       
       <div className="bg-image h-screen bg-no-repeat bg-cover text-white flex items-center w-screen">
           <div className="pl-80">
-            <p className="font-thin text-5xl pl-2">contrua com conexoes</p>
+            <p className="font-thin text-5xl pl-2">Construa com conexoes</p>
             <div className="flex">
-            <p className="text-8xl -mt-6">construa com</p>
+            <p className="text-8xl -mt-6">Construa com</p>
             <div className="flex items-end">
             <img className="ml-2 w-fit" src="/logo2.png" alt="" />
             </div>
